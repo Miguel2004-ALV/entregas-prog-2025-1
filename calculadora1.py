@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 
 """
-Título de práctica: breve descripción
+Título de práctica: calculadora1 
 
 Descripción extendida del programa
 
-Autor: ElAutor <el@correo>
-Fecha: 2025-02-01
+Autor: Miguel Angel Alvarez <maalvarezc@academia.usbbog.edu.co>
+Fecha: 2025-03-01
 """
 
 # **** En esta región puede importar los módulos necesarios para su programa
